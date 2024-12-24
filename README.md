@@ -22,11 +22,13 @@ Melino, nosso jovem sonhador, se perdeu no mundo dos sonhos, e precisa de sua aj
 3. **Importe os arquivos:**
    * carregue o arquivo `game.asm` no campo **FILE** do Simulador
    * carregue o arquivo `charmapMelino.mif` no campo **CHARMAP** do Simulador
+     
   
 4. **Compile e Execute o código:**
    * clique em ***Build*** para compilar o código `game.asm`
    * clique em ***Run*** para iniciar o jogo
   
+       
 5. **Comandos**
    * utilize a tecla `barra de espaço` para passar as telas de estória do game
    * utilize as teclas `A`(esquerda), `W`(cima), `S`(baixo) e `D`(direita) para mover o personagem
