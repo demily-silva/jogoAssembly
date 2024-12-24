@@ -10,5 +10,5 @@ Melino, nosso jovem sonhador, se perdeu no mundo dos sonhos, e precisa de sua aj
 Para rodar o game utilize o **ICMC's CPU Emulator** disponível em: https://proc.giroto.dev e siga os passos abaixo:
 
 1. **Faça o Download dos arquivos:**   
-  * [game.asm](game.asm)
-  * [charmapMelino.mif](charmapMelino.mif)
+   * [game.asm](game.asm)
+   * [charmapMelino.mif](charmapMelino.mif)
