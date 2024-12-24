@@ -12,6 +12,12 @@ Para rodar o game utilize o **ICMC's CPU Emulator** disponível em: https://proc
 1. **Faça o Download dos arquivos:**   
    * [game.asm](game.asm)
    * [charmapMelino.mif](charmapMelino.mif)
+     
 
-2. Acesse o Simulador:
+2. **Acesse o Simulador:**
    * [ICMC's CPU Emulator](https://proc.giroto.dev)
+
+
+3. **Importe os arquivos:**
+   * carregue o arquivo game.asm no campo **FILE** do Simulador
+   * carregue o arquivo charmapMelino.mif no campo **CHARMAP** do Simulador
