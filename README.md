@@ -11,3 +11,4 @@ Para rodar o game utilize o **ICMC's CPU Emulator** disponível em: https://proc
 
 1. **Faça o Download dos arquivos:**
    [game.asm](game.asm)
+   [charmapMelino.mif](charmapMelino.mif)
