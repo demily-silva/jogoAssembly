@@ -1,4 +1,4 @@
-<h2 style="font-size: 80px;">MELINO</h2>
+<h2 style="font-size: 400px;">MELINO</h2>
 
 
 <h1 style="text-align: center;">Melino</h1>
