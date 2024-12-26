@@ -34,3 +34,4 @@ Melino, nosso jovem sonhador, se perdeu no mundo dos sonhos, e precisa de sua aj
    * utilize as teclas `A`(esquerda), `W`(cima), `S`(baixo) e `D`(direita) para mover o personagem
 
 ## Gameplay 
+  ![Melino Gameplay](https://github.com/demily-silva/GIF-gameplay/blob/main/GIF-GAME.gif)
