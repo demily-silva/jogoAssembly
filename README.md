@@ -32,3 +32,5 @@ Melino, nosso jovem sonhador, se perdeu no mundo dos sonhos, e precisa de sua aj
 5. **Comandos**
    * utilize a tecla `barra de espaço` para passar as telas de estória do game
    * utilize as teclas `A`(esquerda), `W`(cima), `S`(baixo) e `D`(direita) para mover o personagem
+
+## Gameplay 
